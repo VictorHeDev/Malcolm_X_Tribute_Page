@@ -1,0 +1,88 @@
+body {
+    font-family: helvetica, arial, san-serif;
+    background-color: #EEEEEE;
+    
+  }
+  
+  .header-flex-container {
+    display: flex;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  .billion-lives {
+    display: flex;
+    justify-content: center;
+  }
+  h2 {
+    font-size: 20px;
+    font-weight: normal;
+    
+  }
+  #img-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 10px 5px 5px 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  img {
+    max-width: 60%;
+    height: auto;
+  }
+  figcaption {
+    display: flex;
+    font-size: 16px;
+    padding: 10px 5px 5px 10px;
+  }
+  p1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .unsorted-list {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  li {
+    margin-top: 15px;
+    margin-left: 10em;
+    margin-right: 10em;
+    line-height: 1.5;
+  
+  }
+  p2 {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 10em;
+    margin-right: 10em;
+    line-height: 1.5;
+    font-style: italic;
+  }
+  p3 {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 10em;
+    margin-right: 10em;
+    line-height: 1.5;
+    font-style: italic;
+  }
+  p4 {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 10em;
+    margin-right: 10em;
+    line-height: 1.5;
+  }
+  a {
+    display: flex;
+    padding-left: 5px;
+  }

@@ -1,0 +1,1 @@
+This is the first project from Free Code Camp. I chose to create a Tribute Page for Malcolm X, whose autobiography I read when I was in High School. I checked the code using codepen.io and it seems to pass the FCC test with flying colors!
